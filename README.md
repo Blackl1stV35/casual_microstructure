@@ -3,7 +3,7 @@
 **Paper:** *Causal Discovery Beyond Training Distribution in Financial Microstructure: A Quasi-Intervention Framework for Limit Order Book Dynamics*  
 **Author:** Kanokphan Sirithienthong, Kasetsart University  
 **Contact:** kanokphan.s@ku.th  
-**SSRN:** [\[link to be added upon posting\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6828158)
+**SSRN:** [Social Science Research Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6828158)
 
 ---
 
@@ -33,8 +33,6 @@ causal_microstructure/
 │   └── E3_OOD_Generalization.ipynb   # Theorem 5: Bear→Bull shift
 ├── paper/
 │   ├── causal_microstructure_jfe.tex # Main manuscript (double-blind)
-│   ├── title_page.tex                # Author info + Declaration of Interest
-│   ├── cover_letter_jfe_plaintext.txt
 │   ├── references.bib
 │   ├── fig1.png                      # E1: Causal depth figure
 │   ├── fig2.png                      # E2: Quasi-do certificate figure
@@ -47,7 +45,7 @@ causal_microstructure/
 
 ## Data
 
-**HFTExperiment NPZ** (`training_ready_v3b.npz`): 5,680,771 XAUUSD M1 bars, January 2009 – May 2026, 12-dimensional precomputed features. Constructed from publicly available XAUUSD M1 OHLCV data. The NPZ file is not included in this repository due to size (~2GB). Contact the author for access or see the data construction scripts in the [HFTExperiment repository](https://github.com/Blackl1stV35/forgwm).
+**HFTExperiment NPZ** (`training_ready_v3b.npz`): 5,680,771 XAUUSD M1 bars, January 2009 – May 2026, 12-dimensional precomputed features. Constructed from publicly available XAUUSD M1 OHLCV data. The NPZ file is not included in this repository due to size (~2GB). Contact the author for access or see the data construction scripts in the [HFTExperiment repository](https://github.com/Blackl1stV35/HFTExperiment).
 
 **Binance XAU/USDT L2 data** (preliminary experiments): freely accessible via the public REST and WebSocket API at `https://fapi.binance.com` — no authentication required.
 
