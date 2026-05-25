@@ -3,8 +3,7 @@
 **Paper:** *Causal Discovery Beyond Training Distribution in Financial Microstructure: A Quasi-Intervention Framework for Limit Order Book Dynamics*  
 **Author:** Kanokphan Sirithienthong, Kasetsart University  
 **Contact:** kanokphan.s@ku.th  
-**Submitted to:** Journal of Financial Economics (JFE), May 2026  
-**SSRN:** [link to be added upon posting]
+**SSRN:** [\[link to be added upon posting\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6828158)
 
 ---
 
